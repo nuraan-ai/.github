@@ -27,7 +27,7 @@ We aim to provide decision-makers in government, finance, and social enterprise 
 <td width="50%" valign="top">
 
 ## Technology
-Our methodology incorporates.
+
 <ul>
   <li>Advanced AI and Machine Learning with a focus on Graph Neural Networks and temporo-spatial modelling.</li>
   <li>Large-Scale Data Analysis of anonymised telecom and geospatial information.</li>
