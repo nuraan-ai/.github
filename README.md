@@ -1,7 +1,7 @@
 # Welcome to Nuraan AI 🚀
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nuraan-ai/.github/main/profile/nuraan-logo.png" alt="Nuraan AI Logo" width="200"/>
+  <img src="/profile/nuraan-logo.png" alt="Nuraan AI Logo" width="200"/>
 </p>
 
 **Illuminating Paths to Equitable Development through Temporo-Spatial AI/ML**
