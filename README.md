@@ -30,7 +30,6 @@ Our methodology incorporates.
 *   Advanced AI and Machine Learning with a focus on Graph Neural Networks and temporo-spatial modelling.
 *   Large-Scale Data Analysis of anonymised telecom and geospatial information.
 *   Geospatial Intelligence platforms delivering dynamic mapping and predictive insights.
-*   A phased engineering approach. Python and JavaScript for initial proof of concept. Performance-critical systems migrating to C++ for production scale.
 
 ## Collaboration
 Project Nuraan is a collaborative venture. Initial partners include Digital Bridge Partners and Grameenphone Ltd. in Bangladesh. We welcome engagement with organisations sharing our commitment to data-informed, equitable development.
