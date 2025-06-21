@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/profile/nuraan-logo.png" alt="Nuraan AI Logo" width="150"/>
+  <img src="/profile/nuraan-logo.png" alt="Nuraan AI Logo" width="100"/>
 </p>
 <h1 align="center">Nuraan AI</h1>
 
