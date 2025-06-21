@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nuraan-ai/.github/main/profile/nuraan-logo.png" alt="Nuraan AI Logo" width="150"/>
+  <img src="/profile/nuraan-logo.png" alt="Nuraan AI Logo" width="150"/>
 </p>
 <h1 align="center">Nuraan AI</h1>
 
