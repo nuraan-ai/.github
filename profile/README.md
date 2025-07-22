@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Nuraan AI</h1>
 
-Project Nurāan is an AI-powered platform for national infrastructure planning in Bangladesh. It uses anonymised telecom data and advanced AI (Graph Neural Networks) to identify underserved areas and recommend optimal locations for essential services (financial, healthcare, education). 
+Project Nurāan is an AI-powered platform for national infrastructure planning in Bangladesh. It uses anonymised telecom data and AI/ML to identify underserved areas and recommend optimal locations for essential services (financial, healthcare, education). 
 
 <table width="100%">
 <tr>
