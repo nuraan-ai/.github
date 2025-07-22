@@ -3,13 +3,7 @@
 </p>
 <h1 align="center">Nuraan AI</h1>
 
-Nuraan AI develops advanced analytical systems to inform strategic development. Our work focuses on transforming complex temporo-spatial data into clear, actionable intelligence.
-
-Our principal undertaking, Project Nuraan, applies these systems to large-scale anonymised telecom and geospatial datasets. The objective is to identify optimal locations for essential infrastructure and services, thereby supporting equitable community development.
-
-## Purpose
-
-We aim to provide decision-makers in government, finance, and social enterprise with precise, data-derived insights. This enables the effective allocation of resources for new financial access points, healthcare facilities, and educational centres. Our initial focus is Bangladesh, with a view to broader applications.
+Project Nurāan is an AI-powered platform for national infrastructure planning in Bangladesh. It uses anonymised telecom data and advanced AI (Graph Neural Networks) to identify underserved areas and recommend optimal locations for essential services (financial, healthcare, education). 
 
 <table width="100%">
 <tr>
