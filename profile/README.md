@@ -5,5 +5,5 @@
 
 Decision-grade intelligence, built for humanitarian operations
 
-Nuraan transforms privacy-preserving mobility signals into actionable maps and metrics teams can trust.
+Nuraan emerged from the critical need for data-driven coordination during the increasing frequency of climate disasters. Our platform transforms raw telecom data into actionable intelligence, enabling humanitarian organizations to save lives through informed decision-making. 
 
