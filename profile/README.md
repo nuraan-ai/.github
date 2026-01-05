@@ -3,31 +3,7 @@
 </p>
 <h1 align="center">Nuraan AI</h1>
 
-Project Nurāan is an advanced geospatial analytics platform.
+Decision-grade intelligence, built for humanitarian operations
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+Nuraan transforms privacy-preserving mobility signals into actionable maps and metrics teams can trust.
 
-## Core Applications
-<ul>
-  <li>Financial Inclusion.</li>
-  <li>Healthcare Accessibility.</li>
-  <li>Digital Equity.</li>
-  <li>Strategic Development Investment.</li>
-</ul>
-
-</td>
-<td width="50%" valign="top">
-
-## Technology
-
-<ul>
-  <li>Advanced AI and Machine Learning with a focus on Graph Neural Networks and temporo-spatial modelling.</li>
-  <li>Large-Scale Data Analysis of anonymised telecom and geospatial information.</li>
-  <li>Geospatial Intelligence platforms delivering dynamic mapping and predictive insights.</li>
-</ul>
-
-</td>
-</tr>
-</table>
